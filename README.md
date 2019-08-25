@@ -7,6 +7,7 @@ For Windows 10:
 1.Run Powershell as administrator
 
 2.Install Chocolatey.
+
   Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
 
 3.Install VxcvServer using Chocolatey
